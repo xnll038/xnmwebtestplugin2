@@ -6,8 +6,7 @@
     "description": "hHhueta",
     "author": "xnll038",
     "license": "MIT",
-	"JSDependencies": [
+	"dependencies": [
         ["test1", "1.0.0"]
-    ],
-	"CSSDependencies": [],
+    ]
 }
