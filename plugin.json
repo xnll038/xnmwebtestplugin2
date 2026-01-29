@@ -2,10 +2,13 @@
     "id": "test2",
     "version": "1.0.0",
     "xnmwebVersion": "1.0.0",
-    "title": "Test 222",
-    "description": "hHhueta",
     "author": "xnll038",
     "license": "MIT",
+    "title": "Test 2",
+    "description": "Some description",
+	"script": true,
+	"styles": false,
+	"preview": false,
 	"dependencies": [
         ["test1", "1.0.0"]
     ]
